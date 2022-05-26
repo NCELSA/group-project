@@ -54,3 +54,8 @@ main h2 {
     background-color: rgb(255, 130, 84);
     padding: 3px;
 }
+.DD-style {
+    color: rgb(141, 221, 250);
+    background-color: rgb(37, 91, 255);
+    padding: 4px;
+}
