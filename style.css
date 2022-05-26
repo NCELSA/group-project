@@ -49,3 +49,8 @@ main h2 {
     background-color: green;
     color: white;
 }
+.Elsa-style {
+    color: white;
+    background-color: rgb(255, 130, 84);
+    padding: 3px;
+}
